@@ -1,0 +1,30 @@
+card,description,size,titlesize
+"Artillery Move","Any artillery or movable engines of war may move, limber, or unlimber on this card in any terrain. Sappers also move at this time. Limbered artillery moves as a column of route; unlimbered (prolong) as line. Sappers may move as if deployed in skirmish formation.",10,18
+"Artillery Reload","Once it has fired, an artillery battery or engine of war may not fire again until after this card is revealed. When the Artillery Reload card is revealed, markers indicating that a unit has fired are removed at the cost of one impetus per unit and the unit is prepared to fire again.",10,18
+"Brilliant Leader","This card is treated as a wild card. The commander may declare it to be any card currently needed.",14,18
+"Cavalry/Infantry Move in Difficult Terrain","All cavalry or infantry units in class III/IV terrain may now move.",14,12
+"Cavalry in Open or Light Terrain","Cavalry units in class I/II terrain may move.",14,14
+"Command Indecision","All remaining impetus in the current initiative are canceled.",14,12
+"Confused Withdrawl","One command group of the enemy's choice in contact with or within one move of the enemy will withdraw a full move away in disorder. All units in that command are out-of-command afterward. Remove after first appearance.",10,14
+"Crushing Volley","Any fire taken by elites, guards, and certain regulars has the missile fire die roll taken up one die type for this turn.",14,18
+Deployment,"Any cavalry, infantry, or artillery units may change formation.",14,18
+"Dress Line","Your army pauses to dress lines, confirm orders, and generally muddle about. A wasted impetus point.",14,18
+"Elites Reload","Any elite missile unit reloads at the cost of one impetus per unit.",14,18
+"Heroic Moment","The next card's effect is doubled.",14,18
+"Infantry in Open or Light Terrain","Infantry units in class I/II terrain may move.",14,12
+"Major Morale Check","Perform a major morale check.",14,18
+Maneuver,"Any infantry, cavalry, or artillery unit may execute a wheeling turn at the cost of one impetus.",10,18
+"Melee Resolution","Any opposed units in base contact resolve melees at this time.",14,18
+"Militia Reload","Any militia missile unit reloads at the cost of one impetus point.",14,18
+"Milling Around","Keening, cursing, and muttering. A wasted impetus point.",14,18
+"Missile Reload","Any missile unit reloads at the cost of one impetus point.",14,18
+"Naval Movement Phase","Naval, amphibious, or riverine movement or fire occurs at this time.",14,12
+"Native Mobility","Native units may move.",14,18
+"Natives Reload","Native missile units reload at the cost of one impetus point.",14,18
+"Officer Check","Status of command and officer losses are checked.  Officers may move rallies, and command assertions may occur.",14,18
+"Ragged Volley","Any fire taken by natives and militia in the current turn has the die type taken down one level.",14,18
+"Regulars Reload","Regular or elite missile units reload at the cost of one impetus point.",14,18
+"Sapper Task","Any sapper task may be attempted at this time.",14,18
+Strategem,"Any strategems in play may be initiated at this time.",14,18
+"Uncontrolled Charge","Any unit that has been fired upon by the enemy within this phase will take one full move towards the nearest enemy and, if in contact, will melee without any other card. Any troops with routing enemy troups within a move will pursue and melee.",10,14
+"Undisciplined Fire","Any militia infantry or native infantry unit must immediately fire one round at the nearest enemy unit.",14,18
