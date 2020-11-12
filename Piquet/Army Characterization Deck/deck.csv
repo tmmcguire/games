@@ -1,0 +1,30 @@
+title,subtitle,value
+Morale,Chits,2
+Morale,Chits,3
+Morale,Chits,4
+Morale,Chits,5
+Morale,Chits,6
+Morale,Chits,7
+Morale,Chits,8
+Morale,Chits,9
+Morale,Chits,10
+Command,Strategem,"Affecting Command"
+Combat,Strategem,"Affecting Combat"
+Movement,Strategem,"Affecting Movement"
+Morale,Strategem,"Affecting Morale"
+Command,"Army Effect","Add Brilliant Commander card"
+Combat,"Army Effect","Add Melee Resolution card"
+Movement,"Army Effect","Add Difficult Terrain Move card"
+Morale,"Army Effect","Add 2 to Major Morale Checks"
+Command,"Artillery Effect","Add 1 to Opportunity Fire limit"
+Combat,"Artillery Effect","Add Artillery Reload card"
+Movement,"Artillery Effect","Add Artillery Move card"
+Morale,"Artillery Effect","Add 1 die type to Artillery Morale"
+Command,"Infantry Effect","Add Officer Check card"
+Combat,"Infantry Effect","Add Missile Reload card"
+Movement,"Infantry Effect","Add Infantry in Open Terrain card"
+Morale,"Infantry Effect","Add 1 die type for Regular Infantry Morale"
+Command,"Cavalry Effect","Add 1 die type for Cavalry Rally or Assertion"
+Combat,"Cavalry Effect","Add 1 die type for Cavalry in melee"
+Movement,"Cavalry Effect","Add Cavalry in Open Terrain card"
+Morale,"Cavalry Effect","Add 1 die type for Cavalry Morale"
